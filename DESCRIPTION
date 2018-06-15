@@ -31,7 +31,6 @@ Imports:
     ade4,
     pegas,
     genetics,
-    rgdal,
     gdistance,
     vegan,
     sp,
