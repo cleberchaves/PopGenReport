@@ -170,7 +170,6 @@
 #' @importFrom calibrate textxy 
 #' @importFrom genetics HWE.test HWE.chisq HWE.exact 
 #' @importFrom ade4 dudi.pca s.class add.scatter 
-#' @importFrom rgdal project 
 #' @import mmod 
 #' @import R.utils 
 #' @import gap 
